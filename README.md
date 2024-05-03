@@ -1,6 +1,6 @@
 # Final Report (Data Visualization, CIS 568)
 #### Group 2: Shuayib Abdulkadir
-#### Date: 3th April, 2024
+#### Date: 3rd April, 2024
 
 ________________________
 
